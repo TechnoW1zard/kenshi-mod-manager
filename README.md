@@ -6,13 +6,13 @@
 
 Это один скрипт PowerShell: ничего доустанавливать не нужно, работает на любой Windows 10/11.
 
-**[⬇ Скачать последнюю версию](https://github.com/DajeStalin/kenshi-mod-manager/releases/latest/download/KenshiModManager.zip)**
+**[⬇ Скачать последнюю версию](https://github.com/TechnoW1zard/kenshi-mod-manager/releases/latest/download/KenshiModManager.zip)**
 
 ---
 
 ## Установка (1 минута)
 
-1. **Скачайте** архив [KenshiModManager.zip](https://github.com/DajeStalin/kenshi-mod-manager/releases/latest/download/KenshiModManager.zip).
+1. **Скачайте** архив [KenshiModManager.zip](https://github.com/TechnoW1zard/kenshi-mod-manager/releases/latest/download/KenshiModManager.zip).
 2. **Распакуйте** его в любое место (правый клик → «Извлечь всё»).
 3. Запустите **`Установить.bat`**.
    Установщик сам найдёт Kenshi в Steam (в том числе на других дисках), скопирует туда менеджер и создаст ярлык **Kenshi Mod Manager** на рабочем столе.

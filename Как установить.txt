@@ -13,4 +13,4 @@
 Вручную: скопируйте KenshiModManager.ps1 и «Kenshi Mod Manager.bat»
 в папку игры (где kenshi_x64.exe) и запускайте .bat.
 
-Подробнее: https://github.com/DajeStalin/kenshi-mod-manager
+Подробнее: https://github.com/TechnoW1zard/kenshi-mod-manager
